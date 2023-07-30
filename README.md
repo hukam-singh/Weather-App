@@ -7,6 +7,7 @@ The Weather Web App is a user-friendly and interactive application that provides
 ## Authors
 
 - [@MOHDNEHALKHAN](https://github.com/MOHDNEHALKHAN)
+- [@hukam-singh ](https://github.com/hukam-singh)
 
 ##
 ![Logo](https://img.freepik.com/free-photo/3d-render-weather-app-icons-interface-elements_107791-17422.jpg?w=1380&t=st=1690712388~exp=1690712988~hmac=78933362256134e0821cf64d5b6b514f98bf1f42968ed3ab3cf12cf7131e4c91)
